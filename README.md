@@ -17,7 +17,7 @@ Run docker-compose
 
 $ docker-compose up
 
-DOCS: 'http://localhost:8000/api/docs/'
+DOCS: '.../api/docs/'
 
 Commands:
 'docker ps' - to see containers
