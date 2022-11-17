@@ -11,7 +11,7 @@ Used stack:
 Setup
 clone the repository:
 
-$ git clone https://github.com/gocardless/sample-django-app.git
+$ git clone https://github.com/SabakuKyuu/youtube-movies-ideas.git
 
 Run docker-compose
 
