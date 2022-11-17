@@ -20,6 +20,6 @@ $ docker-compose up
 DOCS: '.../api/docs/'
 
 Commands:
-'docker ps' - to see containers
-'docker exec -it {id} bash' - enter to container bash
-'docker-compose up'
+- 'docker ps' - to see containers
+- 'docker exec -it {id} bash' - enter to container bash
+- 'docker-compose up'
